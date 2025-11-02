@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="customer-microservice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/customer-microservice.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
