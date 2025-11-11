@@ -1,4 +1,4 @@
-package com.lassons.config;
+package com.lassons.customer.config;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.context.annotation.Configuration;
